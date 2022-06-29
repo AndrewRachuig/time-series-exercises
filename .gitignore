@@ -1,2 +1,4 @@
 *.csv
 *.pyc
+.ipynb_checkpoints/modeling_lesson-checkpoint.ipynb
+.ipynb_checkpoints/explore-checkpoint.ipynb
